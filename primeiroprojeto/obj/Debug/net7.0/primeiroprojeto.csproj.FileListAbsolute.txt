@@ -1,0 +1,15 @@
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.exe
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.deps.json
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.runtimeconfig.json
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.dll
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\bin\Debug\net7.0\primeiroprojeto.pdb
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.AssemblyInfoInputs.cache
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.AssemblyInfo.cs
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.dll
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\refint\primeiroprojeto.dll
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.pdb
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\primeiroprojeto.genruntimeconfig.cache
+C:\Users\autologon\Documents\Leandro Topicos\aula1\primeiroprojeto\obj\Debug\net7.0\ref\primeiroprojeto.dll
