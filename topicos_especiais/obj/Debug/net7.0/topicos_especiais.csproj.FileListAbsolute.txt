@@ -1,0 +1,15 @@
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\bin\Debug\net7.0\topicos_especiais.exe
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\bin\Debug\net7.0\topicos_especiais.deps.json
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\bin\Debug\net7.0\topicos_especiais.runtimeconfig.json
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\bin\Debug\net7.0\topicos_especiais.dll
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\bin\Debug\net7.0\topicos_especiais.pdb
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.csproj.AssemblyReference.cache
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.AssemblyInfoInputs.cache
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.AssemblyInfo.cs
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.csproj.CoreCompileInputs.cache
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.dll
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\refint\topicos_especiais.dll
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.pdb
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\topicos_especiais.genruntimeconfig.cache
+c:\Users\autologon\Documents\leandro - topicos\topicos_especiais\obj\Debug\net7.0\ref\topicos_especiais.dll
