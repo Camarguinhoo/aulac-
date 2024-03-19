@@ -1,0 +1,15 @@
+C:\toirdess\aula3\aula3\bin\Debug\net7.0\aula3.exe
+C:\toirdess\aula3\aula3\bin\Debug\net7.0\aula3.deps.json
+C:\toirdess\aula3\aula3\bin\Debug\net7.0\aula3.runtimeconfig.json
+C:\toirdess\aula3\aula3\bin\Debug\net7.0\aula3.dll
+C:\toirdess\aula3\aula3\bin\Debug\net7.0\aula3.pdb
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.csproj.AssemblyReference.cache
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.GeneratedMSBuildEditorConfig.editorconfig
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.AssemblyInfoInputs.cache
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.AssemblyInfo.cs
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.csproj.CoreCompileInputs.cache
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.dll
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\refint\aula3.dll
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.pdb
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\aula3.genruntimeconfig.cache
+C:\toirdess\aula3\aula3\obj\Debug\net7.0\ref\aula3.dll
