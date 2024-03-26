@@ -1,0 +1,14 @@
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.AssemblyInfoInputs.cache
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.AssemblyInfo.cs
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.csproj.CoreCompileInputs.cache
+C:\toirdes\topicos\atividade\atividade1\bin\Debug\net8.0\atividade1.exe
+C:\toirdes\topicos\atividade\atividade1\bin\Debug\net8.0\atividade1.deps.json
+C:\toirdes\topicos\atividade\atividade1\bin\Debug\net8.0\atividade1.runtimeconfig.json
+C:\toirdes\topicos\atividade\atividade1\bin\Debug\net8.0\atividade1.dll
+C:\toirdes\topicos\atividade\atividade1\bin\Debug\net8.0\atividade1.pdb
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.dll
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\refint\atividade1.dll
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.pdb
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\atividade1.genruntimeconfig.cache
+C:\toirdes\topicos\atividade\atividade1\obj\Debug\net8.0\ref\atividade1.dll
